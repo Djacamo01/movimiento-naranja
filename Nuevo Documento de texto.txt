@@ -1,0 +1,3 @@
+kendry es una zorra
+  git config --global user.email "donald.jacamo22@est.unanleon.edu.ni"
+  git config --global user.name "Djacamo01"
